@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>local.tanaka.LiveCaptionsDoctor</string>
+  <key>CFBundleName</key><string>LiveCaptionsDoctor</string>
+  <key>CFBundleDisplayName</key><string>实时字幕语言诊断</string>
+  <key>CFBundleExecutable</key><string>LiveCaptionsDoctor</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>26.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSSpeechRecognitionUsageDescription</key><string>用于检测和下载实时字幕/语音识别所需的语言模型。</string>
+</dict>
+</plist>
